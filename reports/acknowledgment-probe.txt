@@ -1,0 +1,1 @@
+A separate, bounded test push records GitHub's receive-pack acknowledgment for protocol compatibility testing.
